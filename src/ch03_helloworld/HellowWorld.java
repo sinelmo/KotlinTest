@@ -1,3 +1,5 @@
+package ch03_helloworld;
+
 public class HellowWorld {
     public static void main(String[] args) {
         String msg = "안녕하세요.";
