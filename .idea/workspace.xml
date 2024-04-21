@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cda46aa-2da9-48c6-9d97-b741928b2299" name="Changes" comment="Hello Kotlin Git test">
-      <change afterPath="$PROJECT_DIR$/src/ch01_kotlin/kotlin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/ClassSimple.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/Comment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/NewLine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/Quotes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -27,7 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2fOnLEb8SFxOtjc3bFy1GDZANgE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +45,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.HelloWorldKt">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Kotlin\Kotlin\src\ch03_helloworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.QuotesKt">
     <configuration name="HellowWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HellowWorld" />
       <module name="Hello World" />
@@ -47,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloKotlinKt" />
+    <configuration name="ClassSimpleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04_syntax.ClassSimpleKt" />
       <module name="Hello World" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,11 +72,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewLineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04_syntax.NewLineKt" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuotesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04_syntax.QuotesKt" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.QuotesKt" />
+        <item itemvalue="Kotlin.NewLineKt" />
+        <item itemvalue="Kotlin.ClassSimpleKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
         <item itemvalue="Application.HellowWorld" />
-        <item itemvalue="Kotlin.HelloKotlinKt" />
       </list>
     </recent_temporary>
   </component>
