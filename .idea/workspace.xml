@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cda46aa-2da9-48c6-9d97-b741928b2299" name="Changes" comment="Hello Kotlin Git test">
-      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/ClassSimple.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/Comment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/NewLine.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04_syntax/Quotes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05_variable/ConstantDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05_variable/Literal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch05_variable/Variable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,23 +49,16 @@
       <recent name="C:\Kotlin\Kotlin\src\ch03_helloworld" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.QuotesKt">
-    <configuration name="HellowWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HellowWorld" />
+  <component name="RunManager" selected="Kotlin.ConstantDemoKt">
+    <configuration name="ConstantDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05_variable.ConstantDemoKt" />
       <module name="Hello World" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassSimpleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04_syntax.ClassSimpleKt" />
-      <module name="Hello World" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03_helloworld.HelloWorldKt" />
+    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05_variable.LiteralKt" />
       <module name="Hello World" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05_variable.VariableKt" />
+      <module name="Hello World" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ConstantDemoKt" />
+        <item itemvalue="Kotlin.LiteralKt" />
+        <item itemvalue="Kotlin.VariableKt" />
         <item itemvalue="Kotlin.QuotesKt" />
         <item itemvalue="Kotlin.NewLineKt" />
-        <item itemvalue="Kotlin.ClassSimpleKt" />
-        <item itemvalue="Kotlin.HelloWorldKt" />
-        <item itemvalue="Application.HellowWorld" />
       </list>
     </recent_temporary>
   </component>
